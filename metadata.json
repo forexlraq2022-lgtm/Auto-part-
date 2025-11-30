@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AutoParts AI - قطع غيار ذكية",
+  "description": "تطبيق ذكي لإدارة والبحث عن قطع غيار السيارات (صيني، كوري، أمريكي) باستخدام الذكاء الاصطناعي.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
